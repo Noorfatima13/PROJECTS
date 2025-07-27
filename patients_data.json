@@ -1,0 +1,408 @@
+[
+    {
+        "name": "iman",
+        "age": 19,
+        "weight": 45.0,
+        "height_meters": 1.57,
+        "bmi": 18.25631871475516,
+        "diet_plan": [
+            [
+                "you are underweighted."
+            ],
+            [
+                "Increase calorie intake.",
+                "Focus on protein and healthy fats."
+            ],
+            [
+                "Ensure you're eating enough calories.",
+                "Focus on nutrient-dense foods.",
+                "Avoid excessive exercise."
+            ],
+            [
+                "Nuts and seeds",
+                "Avocado",
+                "Whole milk",
+                "Lean meats",
+                "Whole grain bread"
+            ]
+        ]
+    },
+    {
+        "name": "ali",
+        "age": 20,
+        "weight": 70.0,
+        "height_meters": 1.78,
+        "bmi": 22.093170054286073,
+        "diet_plan": [
+            [
+                "your weight is perfect."
+            ],
+            [
+                "Maintain a balanced diet with variety."
+            ],
+            [
+                "Continue regular physical activity.",
+                "Avoid high-calorie junk food."
+            ],
+            [
+                "Fruits and vegetables",
+                "Whole grains",
+                "Lean proteins",
+                "Dairy products",
+                "Legumes"
+            ]
+        ]
+    },
+    {
+        "name": "abu bakar",
+        "age": 18,
+        "weight": 50.0,
+        "height_meters": 1.5,
+        "bmi": 22.22222222222222,
+        "diet_plan": [
+            [
+                "your weight is perfect."
+            ],
+            [
+                "Maintain a balanced diet with variety."
+            ],
+            [
+                "Continue regular physical activity.",
+                "Avoid high-calorie junk food."
+            ],
+            [
+                "Fruits and vegetables",
+                "Whole grains",
+                "Lean proteins",
+                "Dairy products",
+                "Legumes"
+            ]
+        ]
+    },
+    {
+        "name": "ali",
+        "age": 25,
+        "weight": 90.0,
+        "height_meters": 1.84,
+        "bmi": 26.583175803402646,
+        "diet_plan": [
+            [
+                "you are overweighted."
+            ],
+            [
+                "Reduce calorie intake.",
+                "Increase fruits, vegetables, and whole grains."
+            ],
+            [
+                "Monitor portion sizes.",
+                "Avoid sugary drinks and snacks.",
+                "Aim for regular exercise."
+            ],
+            [
+                "Leafy greens",
+                "Berries",
+                "Whole grains",
+                "Lean proteins",
+                "Low-fat dairy"
+            ]
+        ]
+    },
+    {
+        "name": "ali",
+        "age": 25,
+        "weight": 100.0,
+        "height_meters": 1.84,
+        "bmi": 29.536862003780715,
+        "diet_plan": [
+            [
+                "you are overweighted."
+            ],
+            [
+                "Reduce calorie intake.",
+                "Increase fruits, vegetables, and whole grains."
+            ],
+            [
+                "Monitor portion sizes.",
+                "Avoid sugary drinks and snacks.",
+                "Aim for regular exercise."
+            ],
+            [
+                "Leafy greens",
+                "Berries",
+                "Whole grains",
+                "Lean proteins",
+                "Low-fat dairy"
+            ]
+        ]
+    },
+    {
+        "name": "josh",
+        "age": 19,
+        "weight": 76.0,
+        "height_meters": 1.803,
+        "bmi": 23.378795862814457,
+        "diet_plan": [
+            [
+                "your weight is perfect."
+            ],
+            [
+                "Maintain a balanced diet with variety."
+            ],
+            [
+                "Continue regular physical activity.",
+                "Avoid high-calorie junk food."
+            ],
+            [
+                "Fruits and vegetables",
+                "Whole grains",
+                "Lean proteins",
+                "Dairy products",
+                "Legumes"
+            ]
+        ]
+    },
+    {
+        "name": "moiz",
+        "age": 23,
+        "weight": 73.9,
+        "height_meters": 1.68,
+        "bmi": 26.18339002267574,
+        "diet_plan": [
+            [
+                "you are overweighted."
+            ],
+            [
+                "Reduce calorie intake.",
+                "Increase fruits, vegetables, and whole grains."
+            ],
+            [
+                "Monitor portion sizes.",
+                "Avoid sugary drinks and snacks.",
+                "Aim for regular exercise."
+            ],
+            [
+                "Leafy greens",
+                "Berries",
+                "Whole grains",
+                "Lean proteins",
+                "Low-fat dairy"
+            ]
+        ]
+    },
+    {
+        "name": "khan",
+        "age": 20,
+        "weight": 75.15,
+        "height_meters": 1.83,
+        "bmi": 22.44020424617038,
+        "diet_plan": [
+            [
+                "your weight is perfect."
+            ],
+            [
+                "Maintain a balanced diet with variety."
+            ],
+            [
+                "Continue regular physical activity.",
+                "Avoid high-calorie junk food."
+            ],
+            [
+                "Fruits and vegetables",
+                "Whole grains",
+                "Lean proteins",
+                "Dairy products",
+                "Legumes"
+            ]
+        ]
+    },
+    {
+        "name": "seerat",
+        "age": 13,
+        "weight": 59.0,
+        "height_meters": 1.624,
+        "bmi": 22.370719988352057,
+        "diet_plan": [
+            [
+                "your weight is perfect."
+            ],
+            [
+                "Focus on balanced nutrition for growth."
+            ],
+            [
+                "Continue regular physical activity.",
+                "Avoid high-calorie junk food."
+            ],
+            [
+                "Fruits and vegetables",
+                "Whole grains",
+                "Lean proteins",
+                "Dairy products",
+                "Legumes"
+            ]
+        ]
+    },
+    {
+        "name": "seerat",
+        "age": 13,
+        "weight": 59.0,
+        "height_meters": 1.626,
+        "bmi": 22.315721312194675,
+        "diet_plan": [
+            [
+                "your weight is perfect."
+            ],
+            [
+                "Focus on balanced nutrition for growth."
+            ],
+            [
+                "Continue regular physical activity.",
+                "Avoid high-calorie junk food."
+            ],
+            [
+                "Fruits and vegetables",
+                "Whole grains",
+                "Lean proteins",
+                "Dairy products",
+                "Legumes"
+            ]
+        ]
+    },
+    {
+        "name": "imtiaz",
+        "age": 51,
+        "weight": 85.0,
+        "height_meters": 1.7526,
+        "bmi": 27.672813169612898,
+        "diet_plan": [
+            [
+                "you are overweighted."
+            ],
+            [
+                "Reduce calorie intake.",
+                "Increase fruits, vegetables, and whole grains."
+            ],
+            [
+                "Monitor portion sizes.",
+                "Avoid sugary drinks and snacks.",
+                "Aim for regular exercise."
+            ],
+            [
+                "Leafy greens",
+                "Berries",
+                "Whole grains",
+                "Lean proteins",
+                "Low-fat dairy"
+            ]
+        ]
+    },
+    {
+        "name": "nooor",
+        "age": 19,
+        "weight": 65.0,
+        "height_meters": 1.61,
+        "bmi": 25.076193048107708,
+        "diet_plan": [
+            [
+                "you are overweighted."
+            ],
+            [
+                "Reduce calorie intake.",
+                "Increase fruits, vegetables, and whole grains."
+            ],
+            [
+                "Monitor portion sizes.",
+                "Avoid sugary drinks and snacks.",
+                "Aim for regular exercise."
+            ],
+            [
+                "Leafy greens",
+                "Berries",
+                "Whole grains",
+                "Lean proteins",
+                "Low-fat dairy"
+            ]
+        ]
+    },
+    {
+        "name": "nooor",
+        "age": 19,
+        "weight": 65.0,
+        "height_meters": 1.62,
+        "bmi": 24.76756591982929,
+        "diet_plan": [
+            [
+                "your weight is perfect."
+            ],
+            [
+                "Maintain a balanced diet with variety."
+            ],
+            [
+                "Continue regular physical activity.",
+                "Avoid high-calorie junk food."
+            ],
+            [
+                "Fruits and vegetables",
+                "Whole grains",
+                "Lean proteins",
+                "Dairy products",
+                "Legumes"
+            ]
+        ]
+    },
+    {
+        "name": "maryam",
+        "age": 22,
+        "weight": 61.0,
+        "height_meters": 1.448,
+        "bmi": 29.093281645859406,
+        "diet_plan": [
+            [
+                "you are overweighted."
+            ],
+            [
+                "Reduce calorie intake.",
+                "Increase fruits, vegetables, and whole grains."
+            ],
+            [
+                "Monitor portion sizes.",
+                "Avoid sugary drinks and snacks.",
+                "Aim for regular exercise."
+            ],
+            [
+                "Leafy greens",
+                "Berries",
+                "Whole grains",
+                "Lean proteins",
+                "Low-fat dairy"
+            ]
+        ]
+    },
+    {
+        "name": "maryam",
+        "age": 22,
+        "weight": 61.0,
+        "height_meters": 1.448,
+        "bmi": 29.093281645859406,
+        "diet_plan": [
+            [
+                "you are overweighted."
+            ],
+            [
+                "Reduce calorie intake.",
+                "Increase fruits, vegetables, and whole grains."
+            ],
+            [
+                "Monitor portion sizes.",
+                "Avoid sugary drinks and snacks.",
+                "Aim for regular exercise."
+            ],
+            [
+                "Leafy greens",
+                "Berries",
+                "Whole grains",
+                "Lean proteins",
+                "Low-fat dairy"
+            ]
+        ]
+    }
+]
